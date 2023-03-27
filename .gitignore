@@ -109,6 +109,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+key-opt/
 
 # Spyder project settings
 .spyderproject
@@ -130,3 +131,5 @@ dmypy.json
 
 # data
 *.csv
+
+
